@@ -13,7 +13,7 @@ http://student-proger.ru/2014/07/meteostanciya-2-0/
 
 #include <OneWire.h>
 #include <Wire.h>
-#include <dht.h>
+#include <DHT.h>
 #include <Adafruit_BMP085.h>
 #include <BH1750.h>
 #include <EtherCard.h> // https://github.com/jcw/ethercard
